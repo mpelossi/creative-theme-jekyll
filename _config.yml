@@ -1,12 +1,38 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: Casa Studenti Lugano # This will be a fallback title
+email: info@casastudentilugano.ch # Your contact email
+baseurl: "" # leave this empty
+url: "https://casastudentilugano.ch" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: casastudenti_ti # Your twitter username
+github_username: # Your github username
+
+# Language settings
+languages: ["it", "en", "de", "fr"]
+default_lang: "it"
 
 # Build settings
 markdown: kramdown
+
+# Jekyll defaults
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      lang: "it" # Default language for files at the root
+  -
+    scope:
+      path: "en"
+    values:
+      lang: "en"
+  -
+    scope:
+      path: "de"
+    values:
+      lang: "de"
+  -
+    scope:
+      path: "fr"
+    values:
+      lang: "fr"

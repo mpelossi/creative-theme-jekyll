@@ -1,0 +1,80 @@
+it:
+  title: "Casa Studenti Lugano"
+  description: "La casa per studenti universitari e giovani lavoratori a Lugano. Camere singole e doppie in un ambiente accogliente e moderno."
+  nav:
+    brand: "Casa Studenti"
+    about: "Chi Siamo"
+    services: "Servizi"
+    portfolio: "Foto"
+    contact: "Contatti"
+  header:
+    title: "La Tua Casa a Lugano"
+    subtitle: "Camere accoglienti e moderne per studenti e giovani lavoratori nel cuore della città. Scopri la soluzione perfetta per te."
+    button: "Scopri di Più"
+  about:
+    title: "Abbiamo ciò di cui hai bisogno!"
+    subtitle: "La nostra struttura offre tutto il necessario per iniziare la tua nuova vita a Lugano senza pensieri. Ambienti moderni, completamente arredati e pronti all'uso."
+    button: "Vedi gli Appartamenti!"
+  services:
+    title: "I Nostri Servizi"
+    s1_title: "Posizione Centrale"
+    s1_text: "A pochi passi dall'università e dai principali servizi."
+    s2_title: "Pronti all'Uso"
+    s2_text: "Tutti gli appartamenti sono completamente arredati."
+    s3_title: "Sempre Connessi"
+    s3_text: "Wi-Fi ad alta velocità incluso in tutte le aree."
+    s4_title: "Fatto con Cura"
+    s4_text: "Gestiamo la nostra struttura con amore e attenzione."
+  portfolio:
+    p1_category: "Camera Singola"
+    p1_name: "Stanza 101"
+    # ... add categories and names for all 6 portfolio items
+  aside:
+    title: "Controlla La Disponibilità!"
+    button: "Verifica Ora!"
+  contact:
+    title: "Contattaci!"
+    subtitle: "Pronto per iniziare la tua avventura con noi? Chiamaci o inviaci un'email e ti risponderemo il prima possibile!"
+
+en:
+  title: "Lugano Student House"
+  description: "The home for university students and young workers in Lugano. Single and double rooms in a welcoming and modern environment."
+  nav:
+    brand: "Student House"
+    about: "About Us"
+    services: "Services"
+    portfolio: "Photos"
+    contact: "Contact"
+  header:
+    title: "Your Home in Lugano"
+    subtitle: "Cozy and modern rooms for students and young workers in the heart of the city. Find the perfect solution for you."
+    button: "Find Out More"
+  about:
+    title: "We've got what you need!"
+    subtitle: "Our facility has everything you need to start your new life in Lugano without worries. Modern, fully furnished, and ready-to-use environments."
+    button: "See the Apartments!"
+  services:
+    title: "At Your Service"
+    s1_title: "Central Location"
+    s1_text: "A few steps from the university and main services."
+    s2_title: "Ready to Use"
+    s2_text: "All apartments are fully furnished."
+    s3_title: "Always Connected"
+    s3_text: "High-speed Wi-Fi included in all areas."
+    s4_title: "Made with Love"
+    s4_text: "We manage our property with love and attention."
+  portfolio:
+    p1_category: "Single Room"
+    p1_name: "Room 101"
+  aside:
+    title: "Check Availability!"
+    button: "Check Now!"
+  contact:
+    title: "Let's Get In Touch!"
+    subtitle: "Ready to start your next adventure with us? Give us a call or send us an email and we will get back to you as soon as possible!"
+
+de:
+  # German translations go here
+
+fr:
+  # French translations go here
